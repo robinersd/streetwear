@@ -1,0 +1,12 @@
+{
+  "name": "streetwear-workspace",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"WEB APP E- COMMERCE\" run dev --",
+    "start": "npm run dev",
+    "build": "npm --prefix \"WEB APP E- COMMERCE\" run build",
+    "setup": "npm --prefix \"WEB APP E- COMMERCE\" install",
+    "postinstall": "npm --prefix \"WEB APP E- COMMERCE\" install"
+  }
+}
